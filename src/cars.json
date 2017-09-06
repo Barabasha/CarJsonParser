@@ -1,0 +1,14 @@
+{
+  "cars": [
+    {
+      "model": "BMV",
+      "age": 5,
+      "colour": "Red"
+    },
+    {
+      "model": "AUDI",
+      "age": 10,
+      "colour": "Blue"
+    }
+  ]
+}
